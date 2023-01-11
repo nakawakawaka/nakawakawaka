@@ -1,7 +1,6 @@
 ### Hi!, i'm Bruno Naoki 👋
 
 - 🌱 I’m currently learning React
-- 📫 How to reach me: https://www.linkedin.com/in/bruno-naoki-nakamura/
 
 <div align="center">
   <a href="https://github.com/nakawakawaka">
