@@ -1,11 +1,6 @@
 ### Hi!, i'm Bruno Naoki 👋
 
 - 🌱 I’m currently learning React
-
-<div align="center">
-  <a href="https://github.com/nakawakawaka">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nakawakawaka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Naka-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
