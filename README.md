@@ -1,9 +1,12 @@
-### Hi!, i'm Bruno Naoki 👋
+# Hi!, i'm Bruno Naoki 👋
 
 - 🌱 I’m currently learning React
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nakawakawaka&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakawakawaka&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: inline_block " align="center">
+<img aling="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=nakawakawaka&show_icons=true&hide_border=true&theme=tokyonight" />
+
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakawakawaka&hide_border=true&layout=compact&theme=tokyonight" />
+</div> 
   
 <div style="display: inline_block " align="center"><br>
   <img align="center" alt="Naka-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
