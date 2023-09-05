@@ -38,7 +38,17 @@ Caso queira navegar em meu projeto utilize estes comandos:
 
 # AluraFlix
 Repositório: <a href="https://github.com/nakawakawaka/alura-flix">Alura Flix</a>
+
+<div align="center">
+   <img src="./img/cms_files_10224_1673890211Prancheta_7.png" width="200" />
+</div>
+
+<div align="center">
+    <img src="./img/Aluraflix.png" width="400" />
+    <img src="./img/Aluraflix2.png" width="400" />
 <p><a href="https://alura-flix-44gxionk5-nakawakawaka.vercel.app/">Site</a></p>
+</div>
+
 
 O Alura Flix foi o ultimo desafio do módulo de React JS do curso oferecido pelo programa Oracle Next Education
 Foi utilizado:
