@@ -22,6 +22,35 @@ Atualmente bolsista Desenvolvedor de software pela Cubos Academy e formado como 
   <img align="center" alt="Naka-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
+# CubosBank
+Repositório: <a href="https://github.com/nakawakawaka/desafio-backend-modulo-02-sistema-bancario-b2b-ifood-t07">CubosBank</a>
+
+A CubosBank é o desafio do segundo módulo, nele apliquei varios dos conhecimentos passado durante as aulas como: 
+- A criação de APIs utilizando o padrão REST
+- Utilização da biblioteca Express e File System
+- Estruturação de pastas
+
+Caso queira navegar em meu projeto utilize estes comandos:
+- ```git clone``` para clonar este repositorio
+- ```npm install``` para instalar todas as dependencias nescessarias
+- ```npm run dev``` para inicializar
+- Recomento utilizar a ferramenta <a href="https://insomnia.rest/">Insomnia</a> para ter uma experiência completa
+
+# AluraFlix
+Repositório: <a href="https://github.com/nakawakawaka/alura-flix">Alura Flix</a>
+<p><a href="https://alura-flix-44gxionk5-nakawakawaka.vercel.app/">Site</a></p>
+
+O Alura Flix foi o ultimo desafio do módulo de React JS do curso oferecido pelo programa Oracle Next Education
+Foi utilizado:
+- React Js
+- React Slick
+- Json Server
+  
+Caso queira navegar em meu projeto utilize estes comandos:
+- ```git clone``` para clonar este repositorio
+- ```npm install``` para instalar todas as dependencias nescessarias
+- ```npm start``` para inicializar
+
   ##
   
 <div align="center"> 
@@ -29,5 +58,6 @@ Atualmente bolsista Desenvolvedor de software pela Cubos Academy e formado como 
   <a href = "mailto:bruno.naoki.nakamura@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-naoki-nakamura" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-  
--->
+
+
+
