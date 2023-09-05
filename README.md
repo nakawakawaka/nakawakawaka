@@ -1,6 +1,8 @@
-# Hi!, i'm Bruno Naoki 👋
+# Olá!, me chamo Bruno Naoki 👋
 
-- 🌱 I’m currently learning React
+Sou descendente de japonês, amante do ciclismo e das trilhas!
+
+Atualmente bolsista Desenvolvedor de software pela Cubos Academy e formado como Desenvolvedor Front-end pela Alura como bolsista do programa Oracle next education.
 
 <div style="display: inline_block " align="center">
 <img aling="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=nakawakawaka&show_icons=true&hide_border=true&theme=tokyonight" />
